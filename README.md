@@ -8,8 +8,8 @@
 ## About Me
 
 - 🤔 Full Stack Developer that leans towards back end technologies.
-- 🌱 Currently learning Netlify.
-- ✅ Next on the list Vue, FaunaDB.
+- 🌱 Currently learning Vue, FaunaDB.
+- ✅ Next on the list Netlify.
 - 📩 You can reach me at [sam.robles.199@gmail.com]
 
 ## 🛠 Tech Stack
