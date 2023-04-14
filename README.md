@@ -7,10 +7,11 @@
 
 ## About Me
 
-- 🤔 Full Stack Developer that leans towards back end technologies.
-- 🌱 Currently learning Vue, FaunaDB.
-- ✅ Next on the list Netlify.
-- 📩 You can reach me at [sam.robles.199@gmail.com]
+As a recent graduate of brainstation, I am eager to apply my skills and knowledge to solve complex problems and contribute to innovative projects. I am passionate about technology and its potential to transform the world we live in.
+
+Throughout my academic journey, I have gained experience in various programming languages, such as JavaScript, C++ and Python. I have also worked on several projects, including developing web applications and data analysis projects. These experiences have taught me the importance of teamwork, time management, and attention to detail.
+
+I am excited to continue learning and growing in my career, and I believe that my passion for technology, coupled with my strong work ethic and eagerness to learn, make me a valuable addition to any team.
 
 ## 🛠 Tech Stack
 
