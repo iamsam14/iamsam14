@@ -25,5 +25,3 @@ I am excited to continue learning and growing in my career, and I believe that m
 - 🔧 Git
 
 ---
-
-![Sam's's github stats](https://github-readme-stats.vercel.app/api?username=iamsam14&show_icons=true)
